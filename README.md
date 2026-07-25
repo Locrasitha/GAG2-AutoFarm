@@ -30,4 +30,4 @@ Script Lua untuk auto harvest di game **Grow a Garden 2** Roblox dengan fitur fi
 
 ### Cara 2: Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/GAG2-AutoFarm/main/src/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Locrasitha/GAG2-AutoFarm/main/src/main.lua"))()
